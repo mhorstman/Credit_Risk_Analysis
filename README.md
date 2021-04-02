@@ -12,7 +12,7 @@ The purpose of this analysis is to use various machine learning techniques on a 
 The following section shows the results of the 6 machine learning models that were run against the credit card dataset. From these results we see that none of the models are great at predicting credit risk for high-risk people. Of all the models the EasyEnsembleClassifier was clearly the best with the highest accuracy, very good prediction of low-risk, and marginal prediction of high-risk. The detailed results section below contains additional detail on the results of each of the models.
 
 ### Summary Table
-![SummaryTable(https://github.com/mhorstman/Credit_Risk_Analysis/blob/main/Output/SummaryTable.png)
+![SummaryTable](https://github.com/mhorstman/Credit_Risk_Analysis/blob/main/Output/SummaryTable.png)
 
 ### Detailed Resuilts
 The following shows the detailed results for the 6 models run. The key metrics from these results are accuracy score, precision (pre), recall (rec) and f1.
