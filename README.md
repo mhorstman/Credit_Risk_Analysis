@@ -13,7 +13,7 @@ The following section shows the results of the 6 machine learning models that we
 
 ### Summary Table
 ML Technique            F1 High-Risk    F1 Low-Risk     Accuracy
---------------------------------------------------------------------
+
 RandomOverSample            0.02            0.75            0.67
 SMOTE                       0.02            0.82            0.66
 CluseredCentroids           0.01            0.57            0.54
